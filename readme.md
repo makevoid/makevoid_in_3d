@@ -4,8 +4,10 @@
 
 STL printable model: (5mb)
 
-![https://github.com/makevoid/makevoid_in_3d/blob/master/makevoid_decimate.stl](https://raw.githubusercontent.com/makevoid/makevoid_in_3d/master/me_in_3d.png)
+<a href="https://github.com/makevoid/makevoid_in_3d/blob/master/makevoid_decimate.stl">
+![](https://raw.githubusercontent.com/makevoid/makevoid_in_3d/master/me_in_3d.png)
 https://github.com/makevoid/makevoid_in_3d/blob/master/makevoid_decimate.stl
+</a>
 
 
 gcode specific for my delta printer vslot kossel mini with different dimensions, extruder temp setting and start/end gcodes
