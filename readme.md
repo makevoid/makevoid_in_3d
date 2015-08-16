@@ -3,7 +3,7 @@
 ### Main file
 
 STL printable model: (5mb)
-raw scan wrl full color >  meshlab > stl (25mb) > blender > decimate 0.25, smooth > stl (5mb)
+raw scan wrl full color > good potoretouch - beard + missing pixels - not good, wtf u done to my eyes and mouth :D nvm >  meshlab > stl (25mb) > blender > decimate 0.25, smooth > stl (5mb)
 
 <a href="https://github.com/makevoid/makevoid_in_3d/blob/master/makevoid_decimate.stl">
 ![](https://raw.githubusercontent.com/makevoid/makevoid_in_3d/master/me_in_3d.png)
