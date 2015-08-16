@@ -4,7 +4,7 @@
 
 STL printable model: (5mb
 
-Raw scan wrl full color > good potoretouch - beard + missing pixels | not good - face nonbeard (wtf u done to my eyes and mouth) :D nvm 
+Raw scan wrl full color > good 3d retouch (didn't ask but cool) - beard + one mesh + fill missing polygons | not good - face nonbeard (wtf u done to my eyes and mouth) :D nvm 
 
 meshlab > stl (25mb) > blender > decimate 0.25, smooth > STL (5mb)
 
