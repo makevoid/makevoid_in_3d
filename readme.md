@@ -8,7 +8,9 @@ STL printable model: (5mb
 
 good 3d retouch to best show the colored version (didn't ask but cool, I didn't see the raw scan yet but it seems good) - beard + one mesh + fill missing polygons | not good - face nonbeard (wtf u done to my eyes and mouth) :D nvm 
 
-Raw scan wrl full color > meshlab > stl (25mb) > blender > decimate 0.25, smooth > STL (5mb)
+#### process:
+
+**Raw scan wrl full color > meshlab > stl** (25mb) **> blender > decimate 0.25, smooth > STL** (5mb)
 
 <a href="https://github.com/makevoid/makevoid_in_3d/blob/master/makevoid_decimate.stl">
 ![](https://raw.githubusercontent.com/makevoid/makevoid_in_3d/master/me_in_3d.png)
