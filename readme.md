@@ -4,7 +4,7 @@
 
 STL printable model: (5mb)
 
-![](https://raw.githubusercontent.com/makevoid/makevoid_in_3d/master/me_in_3d.png)
+![https://github.com/makevoid/makevoid_in_3d/blob/master/makevoid_decimate.stl](https://raw.githubusercontent.com/makevoid/makevoid_in_3d/master/me_in_3d.png)
 https://github.com/makevoid/makevoid_in_3d/blob/master/makevoid_decimate.stl
 
 
