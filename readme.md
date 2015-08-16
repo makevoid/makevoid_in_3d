@@ -10,7 +10,7 @@ good 3d retouch to best show the colored version (didn't ask but cool, I didn't 
 
 #### process:
 
-**Raw scan wrl full color > meshlab > stl** (25mb) **> blender > decimate 0.25, smooth > STL** (5mb)
+**input: Raw scan .wrl full color > MeshLab > .stl** (25mb) **> Blender > decimate 0.25, smooth > output file: STL** (5mb)
 
 <a href="https://github.com/makevoid/makevoid_in_3d/blob/master/makevoid_decimate.stl">
 ![](https://raw.githubusercontent.com/makevoid/makevoid_in_3d/master/me_in_3d.png)
