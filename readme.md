@@ -1,10 +1,13 @@
 # Me (makevoid) in 3D!
 
-main file
+### Main file
 
+STL printable model: (5mb)
+
+![](https://raw.githubusercontent.com/makevoid/makevoid_in_3d/master/me_in_3d.png)
 https://github.com/makevoid/makevoid_in_3d/blob/master/makevoid_decimate.stl
 
-STL printable models
+
 gcode specific for my delta printer vslot kossel mini with different dimensions, extruder temp setting and start/end gcodes
 
 ---
