@@ -6,7 +6,7 @@ STL printable model: (5mb
 
 **misc infos:**
 
-good 3d retouch to best show the colored version (didn't ask but cool, I didn't see the raw scan yet but it seems good) - beard + one mesh + fill missing polygons | not good - face nonbeard (wtf u done to my eyes and mouth) :D nvm 
+good 3d retouch to best show the colored version (didn't ask but cool, I didn't see the raw scan yet but it seems good) - beard + one mesh + fill missing polygons | not good - face nonbeard (wtf u done to my eyes and mouth) :D nvm
 
 #### process:
 
